@@ -58,3 +58,8 @@ Contributions and [feedback](https://feedback.thirdweb.com) are always welcome! 
 ## Need help?
 
 For help, join the [discord](https://discord.gg/thirdweb) or visit our [support page](https://support.thirdweb.com).
+
+## デプロイしたNFTコントラクトのアドレス
+
+[0x9854A9b4bF716Bc83CfB242EA3D2B8fa7bE82A14](https://mumbai.polygonscan.com/address/0x9854A9b4bF716Bc83CfB242EA3D2B8fa7bE82A14)  
+[]()
